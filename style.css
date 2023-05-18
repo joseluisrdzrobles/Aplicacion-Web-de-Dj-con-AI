@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: url("party.jpg");
+    background-size: cover;
+}
+
+button {
+    font-size: 25px;
+    border-radius: 10px;
+}
