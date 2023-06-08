@@ -8,3 +8,7 @@ button {
     font-size: 25px;
     border-radius: 10px;
 }
+
+canvas {
+    margin-top: 40px;
+}
